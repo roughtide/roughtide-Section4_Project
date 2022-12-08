@@ -1,3 +1,4 @@
 # roughtide-Section4_Project
 
-NCP API & Request part of the code is lost
+- update dec 8 2022
+NCP API & Request part of the codes lost
